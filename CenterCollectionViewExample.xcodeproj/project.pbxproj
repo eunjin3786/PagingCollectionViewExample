@@ -15,7 +15,6 @@
 		C2F89BA924B750DB0047DCB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2F89BA724B750DB0047DCB1 /* LaunchScreen.storyboard */; };
 		C2F89BB424B750DB0047DCB1 /* CenterCollectionViewExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F89BB324B750DB0047DCB1 /* CenterCollectionViewExampleTests.swift */; };
 		C2F89BBF24B750DB0047DCB1 /* CenterCollectionViewExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F89BBE24B750DB0047DCB1 /* CenterCollectionViewExampleUITests.swift */; };
-		C2F89BCD24B756030047DCB1 /* CenterCollectionViewFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F89BCC24B756030047DCB1 /* CenterCollectionViewFlowLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		C2F89BBA24B750DB0047DCB1 /* CenterCollectionViewExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CenterCollectionViewExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2F89BBE24B750DB0047DCB1 /* CenterCollectionViewExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterCollectionViewExampleUITests.swift; sourceTree = "<group>"; };
 		C2F89BC024B750DB0047DCB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C2F89BCC24B756030047DCB1 /* CenterCollectionViewFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterCollectionViewFlowLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +106,6 @@
 				C2F89BA524B750DB0047DCB1 /* Assets.xcassets */,
 				C2F89BA724B750DB0047DCB1 /* LaunchScreen.storyboard */,
 				C2F89BAA24B750DB0047DCB1 /* Info.plist */,
-				C2F89BCC24B756030047DCB1 /* CenterCollectionViewFlowLayout.swift */,
 			);
 			path = CenterCollectionViewExample;
 			sourceTree = "<group>";
@@ -263,7 +260,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C2F89BA124B750D80047DCB1 /* ViewController.swift in Sources */,
-				C2F89BCD24B756030047DCB1 /* CenterCollectionViewFlowLayout.swift in Sources */,
 				C2F89B9D24B750D80047DCB1 /* AppDelegate.swift in Sources */,
 				C2F89B9F24B750D80047DCB1 /* SceneDelegate.swift in Sources */,
 			);
